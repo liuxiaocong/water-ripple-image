@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaterLoadImageView">
+        <attr name="image_width" format="dimension"/>
+        <attr name="image_height" format="dimension"/>
+        <attr name="water_color" format="color"/>
+        <attr name="water_duration" format="integer"/>
+        <attr name="auto_play" format="boolean"></attr>
+    </declare-styleable>
+</resources>
